@@ -4,4 +4,9 @@
    "devices": ["293983"],
    "expiry": "31-10-2024 12:00 PM"
 },
+      "TESTAPK02": {
+   "password": "$2y$12$yheJPbRe9V7BxmA555zdZ.eIV7rtEz.s9BPX3CfOBIyKzQ6m4F.FC",
+   "devices": ["REDMINOTE9PRO44DB99D653534A53"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
