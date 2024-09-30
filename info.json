@@ -14,14 +14,10 @@
    "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
    "expiry": "31-10-2024 12:00 PM"
 },
-   "Andrew": {
-   "password": "$2y$12$FU6o8rqgD.8M5iBQQTad3ONa5iJPbB6cKdCotUe23f94jkMB5vgXq",
-   "devices": ["23021RAA2Y638CD5911836EED8"],
-   "expiry": "31-10-2024 12:00 AM"
-},
    "ZFC01": {
    "password": "$2y$12$okYrkNsYE4RsZX8AnyFC5eGO104EjeraTeGtinX5PJiMu5TBxyrGG",
    "devices": ["REDMINOTE9PRO6AC79C35F9D31B29","23021RAA2Y638CD5911836EED8"],
    "expiry": "31-10-2024 12:00 AM"
 },
+   
 }
