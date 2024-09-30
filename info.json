@@ -24,4 +24,9 @@
    "devices": [],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "kaleafifi": {
+   "password": "$2y$12$SixGR9fq9o3s1wHX10mx0.G9mGuBFO/Z7vHyXV1u3MAFWYurio5ve",
+   "devices": ["CPH180399950238"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
