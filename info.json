@@ -19,5 +19,9 @@
    "devices": ["REDMINOTE9PRO6AC79C35F9D31B29","23021RAA2Y638CD5911836EED8"],
    "expiry": "31-10-2024 12:00 AM"
 },
-   
+   "andrew": {
+   "password": "$2y$12$y7gWGKiSdDyT8ojdcNE8.O6RqpHa5qUucThuMBWMmkfGkhpAzGt.m",
+   "devices": ["23021RAA2Y638CD5911836EED8"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
