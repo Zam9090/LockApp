@@ -9,4 +9,9 @@
    "devices": ["REDMINOTE9PRO44DB99D653534A53"],
    "expiry": "31-10-2022 12:00 PM"
 },
+   "Owner01": {
+   "password": "$2y$12$Bv5EoPUgLSXqfrN/cpiL/.53JrdleUSq/SNf.AlTu52SMIs2Ef7OC",
+   "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
