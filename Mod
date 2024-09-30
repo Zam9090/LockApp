@@ -1,6 +1,6 @@
 {
 "123456": {
-   "password": "$2y$12$JBZbx/nKcc2PWdsp6.ehqOxs65yCzf2zhQc0y64i.RwRYsZSwigEu",
-   "devices": [],
+   "password": "$2y$12$Jqj/GD6TALHvJUZ.Kp8z/.9orKFGCHHz0Jce8o48Ho.Ucz69B4dlK",
+   "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
    "expiry": "31-10-2024 12:00 PM"
 },
