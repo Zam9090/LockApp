@@ -39,4 +39,9 @@
    "devices": ["23028RN4DGACABC2FEF3A14A65"],
    "expiry": "02-11-2024 12:59 PM"
 },
+   "537853135@SF": {
+   "password": "$2y$12$pLn2HQiURt86B6II4AS/TuhfOSFTKuSf7jTFYxWbV6QJTBRC/uTFi",
+   "devices": ["SM-A055F457C9A20663C0D12"],
+   "expiry": "02-11-2024 12:00 PM"
+},
 }
