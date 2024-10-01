@@ -44,9 +44,9 @@
    "devices": ["SM-A055F457C9A20663C0D12"],
    "expiry": "02-11-2024 12:00 PM"
 },
-   "08978197667": {
-   "password": "$2y$12$adHUwrrRhjl25S2NpXGETeY48icjQ9PloQd0NVnIyOGrroYTSazc6",
-   "devices": ["REDMINOTE52B4DDC8BC8090B9C"],
+   "08978197667@FKGB": {
+   "password": "$2y$12$E9kz77eX2.e39vjghWSOSe3HdrjixZI.NEriFYw0QuC7awkpymYMG",
+   "devices": ["REDMINOTE54BEB1D639352221E"],
    "expiry": "02-11-2024 12:00 PM"
 },
 }
