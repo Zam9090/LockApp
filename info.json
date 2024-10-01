@@ -34,4 +34,9 @@
    "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "081284940558": {
+   "password": "$2y$12$4xz.pYthtz/VCrDy9rz7duhmm127S/4CsUQGHmgoc2FGm5AkbUZn6",
+   "devices": ["23028RN4DGACABC2FEF3A14A65"],
+   "expiry": "02-11-2024 12:59 PM"
+},
 }
