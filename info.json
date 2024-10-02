@@ -54,4 +54,9 @@
    "devices": ["SM-G780F03AC5B8583E5CF71"],
    "expiry": "02-11-2024 12:00 PM"
 },
+   "081281306720@FKGP": {
+   "password": "$2y$12$.8SrfjAenpVF/fKqqQz25.8UU627w7JXvj.LZus56XUixAgpFRIRm",
+   "devices": ["SM-N960FD9AC83B64C742DDC"],
+   "expiry": "02-11-2024 12:00 PM"
+},
 }
