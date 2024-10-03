@@ -54,4 +54,9 @@
    "devices": ["SM-A035F119839D5F95090DE"],
    "expiry": "02-11-2024 12:00 PM"
 },
+"0703707593": {
+   "password": "$2y$12$z9flb694vhTNO049d.fjC.yF0l/C36ixSBzUpq4/2.Zkeq3MhJLfC",
+   "devices": ["2211133C5652CD2D1CB87E78"],
+   "expiry": "05-10-2024 12:00 PM"
+},
 }
