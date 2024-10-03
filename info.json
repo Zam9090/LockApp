@@ -49,4 +49,9 @@
    "devices": ["M2004J19C1EAEADBBCB55AE02"],
    "expiry": "02-11-2024 12:00 PM"
 },
+"085892970507-GP": {
+   "password": "$2y$12$qzeqdlryme3lh9MnlByd7uzzTg8NK3ourwMVeEUlk1ocENoAOp1Rm",
+   "devices": ["SM-A035F119839D5F95090DE"],
+   "expiry": "02-11-2024 12:00 PM"
+},
 }
