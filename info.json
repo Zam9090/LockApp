@@ -64,4 +64,9 @@
    "devices": ["23021RAA2Y7ED45F412AA9DE1D"],
    "expiry": "12-10-2024 12:00 PM"
 },
+"081222660388@GP": {
+   "password": "$2y$12$vXWt2BMRusV7turkHtj9PuzyjuQHLJHjIcqEkFJxRF6R/iLVE6e/G",
+   "devices": ["M2101K7BNYC6DF76BA6CCD21E6","M2101K7BNY64A8326C2D6263AF"],
+   "expiry": "04-11-2024 12:00 PM"
+},
 }
