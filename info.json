@@ -1,13 +1,8 @@
 {
-"TESTAPK01": {
-   "password": "$2y$12$7DqGchMURiHypQeIxhmq2.ND/vLKHenPNJlc0OgQIQhE7MsiuH3H.",
-   "devices": ["293983"],
-   "expiry": "31-10-2024 12:00 PM"
-},
-      "TESTAPK02": {
-   "password": "$2y$12$yheJPbRe9V7BxmA555zdZ.eIV7rtEz.s9BPX3CfOBIyKzQ6m4F.FC",
-   "devices": ["REDMINOTE9PRO44DB99D653534A53"],
-   "expiry": "31-10-2022 12:00 PM"
+"zam@admin": {
+   "password": "$2y$12$2cADTZggBzFfNquQiQFXT.22j9gEo4YNX5jmrd9fzrXcLACMGthIC",
+   "devices": ["REDMINOTE9PROEFE58215860D3DB1"],
+   "expiry": "10-10-2024 12:00 PM"
 },
    "andrew": {
    "password": "$2y$12$y7gWGKiSdDyT8ojdcNE8.O6RqpHa5qUucThuMBWMmkfGkhpAzGt.m",
