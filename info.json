@@ -39,4 +39,9 @@
    "devices": ["SM-N960FD9AC83B64C742DDC"],
    "expiry": "02-11-2024 12:00 PM"
 },
+"081381420513-GP": {
+   "password": "$2y$12$ouFA7LJmzQYIUDYoISGE/ObZxku7iljpMXCZo6J4gQ/xK7yu/NrU2",
+   "devices": ["23053RN02AFF43376D59954CBC"],
+   "expiry": "19-10-2024 12:00 PM"
+},
 }
