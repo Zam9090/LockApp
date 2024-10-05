@@ -69,4 +69,9 @@
    "devices": ["M2101K7BNYC6DF76BA6CCD21E6","M2101K7BNY64A8326C2D6263AF"],
    "expiry": "04-11-2024 12:00 PM"
 },
+"01320001875@FK": {
+   "password": "$2y$12$E9OYbCW7g8AKTs4b1OuJ..9btwvqd70SyDMyFCu5B.sRWa2bKdrq2",
+   "devices": ["REDMINOTE9PRODAE1E9112577F66B"],
+   "expiry": "02-11-2024 12:00 PM"
+},
 }
