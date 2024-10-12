@@ -84,4 +84,9 @@
    "devices": ["SM-A042F3135EA7A4BEC95F8"],
    "expiry": "17-10-2024 12:00 PM"
 },
+"081298400908@FKGP": {
+   "password": "$2y$12$jST4QqocweVpWynCXGGdD.StfQbIKaCZ6/txmSVm1d/jPs/dxcCga",
+   "devices": ["SM-M127F3743246D99C084FC"],
+   "expiry": "15-10-2024 12:00 PM"
+},
 }
