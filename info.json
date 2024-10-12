@@ -89,4 +89,9 @@
    "devices": ["SM-M127F3743246D99C084FC"],
    "expiry": "15-10-2024 12:00 PM"
 },
+"082316257372": {
+   "password": "$2y$12$9FuxSiT.EGIWCR4YmIX/q.9O9RsQRA8kbX3sHhccGjID9q62bThOq",
+   "devices": ["REDMI4X7F9319C5E7C05729"],
+   "expiry": "12-11-2024 12:00 PM"
+},
 }
