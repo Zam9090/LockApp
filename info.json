@@ -94,4 +94,9 @@
    "devices": ["REDMI4X7F9319C5E7C05729"],
    "expiry": "12-11-2024 12:00 PM"
 },
+"Renda@GP": {
+   "password": "$2y$12$RoikZ63flnZ8w1.cX.7IV.S42fysvw0y3GQcPSVvjM1TjBOn91Lbi",
+   "devices": ["SM-A705F3B7D1B75D8BBEE40"],
+   "expiry": "02-11-2024 12:00 PM"
+},
 }
