@@ -104,4 +104,9 @@
    "devices": ["21081111RGC5BDB34A08F50885"],
    "expiry": "17-11-2024 12:00 PM"
 },
+"087816000817@Aan": {
+   "password": "$2y$12$vLuVNpAXVyScpf3u87xIhuARetnILD0tUYlcPj9FKlfNMI1IFpCgK",
+   "devices": ["21121119SG4D3762BE5E0CA532","21121119SGE6157813E369BE0F"],
+   "expiry": "22-11-2024 12:59 PM"
+},
 }
