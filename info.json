@@ -111,7 +111,7 @@
 },
 "zam@admin": {
    "password": "$2y$12$ebxEX9dIf9o27GP5ddfFgu.3NHPD8yUgcgPE4Y2B3c39QiIFTrkq.",
-   "devices": ["RMX363024B2067B8E631BA8"],
+   "devices": ["RMX363024B2067B8E631BA8"," RMX3630E0E51927F7B04BD1"],
    "expiry": "30-11-2024 12:59 PM"
 },
 }
