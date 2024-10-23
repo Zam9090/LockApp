@@ -116,7 +116,7 @@
 },
 "123456@GB": {
    "password": "$2y$12$1pgI/leTyyyA/fv6HglM2.4GrMYXbrf.qjMoQvCVVUT6VDGGt6/RW",
-   "devices": ["RMX363024B2067B8E631BA8"],
+   "devices": ["RMX363024B2067B8E631BA8"," RMX3630E0E51927F7B04BD1"],
    "expiry": "30-11-2024 12:59 PM"
 },
 }
