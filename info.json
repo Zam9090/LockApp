@@ -109,14 +109,9 @@
    "devices": ["21121119SG4D3762BE5E0CA532","21121119SGE6157813E369BE0F"],
    "expiry": "22-11-2024 12:59 PM"
 },
-"Reza@modGB": {
-   "password": "$2y$12$6NsayvOwXmOpRJi5Rvkn5.0aQ0DAu1gJV44at/6fAf0HUPsz8XSSu",
+"zam@admin": {
+   "password": "$2y$12$ebxEX9dIf9o27GP5ddfFgu.3NHPD8yUgcgPE4Y2B3c39QiIFTrkq.",
    "devices": ["RMX363024B2067B8E631BA8"],
-   "expiry": "30-11-2024 12:59 PM"
-},
-"123456@GB": {
-   "password": "$2y$12$1pgI/leTyyyA/fv6HglM2.4GrMYXbrf.qjMoQvCVVUT6VDGGt6/RW",
-   "devices": ["RMX363024B2067B8E631BA8"," RMX3630E0E51927F7B04BD1"],
    "expiry": "30-11-2024 12:59 PM"
 },
 }
