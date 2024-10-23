@@ -109,4 +109,9 @@
    "devices": ["21121119SG4D3762BE5E0CA532","21121119SGE6157813E369BE0F"],
    "expiry": "22-11-2024 12:59 PM"
 },
+"Reza@modGB": {
+   "password": "$2y$12$6NsayvOwXmOpRJi5Rvkn5.0aQ0DAu1gJV44at/6fAf0HUPsz8XSSu",
+   "devices": ["RMX363024B2067B8E631BA8"],
+   "expiry": "30-11-2024 12:59 PM"
+},
 }
