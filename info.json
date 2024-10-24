@@ -119,5 +119,10 @@
    "devices": ["SM-A146PFECEE4224E4DB676","SM-A146P283B5EDC1EE9AFA1"],
    "expiry": "23-11-2024 12:59 PM"
 },
+"DENY@GBTRAIL": {
+   "password": "$2y$12$/MzNHNElj6GC75jX6d987uSW1HBot1fAla5uBhBdoSf8HGadkYKTe",
+   "devices": ["REDMINOTE4F755049C03490533"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
 
