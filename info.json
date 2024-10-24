@@ -74,16 +74,6 @@
    "devices": ["INFINIXX68278DEBF0114887A7BC","INFINIXX6827C18AD76A9FC1A33D"],
    "expiry": "07-11-2024 12:59 PM"
 },
-"085894732012@FK": {
-   "password": "$2y$12$CVuq61ZjZTI.jPI0ri.Cv.9B6jFAzhJW8iP98Z0.LXCNBGEDFMar2",
-   "devices": ["SM-A042F3135EA7A4BEC95F8"],
-   "expiry": "17-10-2024 12:00 PM"
-},
-"081298400908@FKGP": {
-   "password": "$2y$12$jST4QqocweVpWynCXGGdD.StfQbIKaCZ6/txmSVm1d/jPs/dxcCga",
-   "devices": ["SM-M127F3743246D99C084FC"],
-   "expiry": "15-10-2024 12:00 PM"
-},
 "082316257372": {
    "password": "$2y$12$9FuxSiT.EGIWCR4YmIX/q.9O9RsQRA8kbX3sHhccGjID9q62bThOq",
    "devices": ["REDMI4X7F9319C5E7C05729"],
