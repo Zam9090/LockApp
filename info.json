@@ -129,5 +129,10 @@
    "devices": ["23053RN02A75FC164ACF619D87"],
    "expiry": "31-10-2024 12:59 PM"
 },
+"Dimas@GBTrail": {
+   "password": "$2y$12$os7jv3251548BU2qj2AUwetPXs1aYMAZMJnp7pbZFY6TFUNTtemPe",
+   "devices": ["SM-A042F5154CCB8983BD871"],
+   "expiry": "31-10-2024 12:59 PM"
+},
 }
 
