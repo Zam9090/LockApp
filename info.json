@@ -144,5 +144,10 @@
    "devices": ["22120RN86G3B6D878BEA9235B9","22120RN86G9A64E55903F13191"],
    "expiry": "26-11-2024 12:59 PM"
 },
+"JLee@GBMY": {
+   "password": "$2y$12$dMs2btIs3WZqgSBuTi22b.MjzGn/e7k7aOlYp8R.1V.3KoDAj.bKi",
+   "devices": ["SM-A065F08C5A4E40AA6618E"],
+   "expiry": "31-10-2024 12:59 PM"
+},
 }
 
