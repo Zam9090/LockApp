@@ -154,5 +154,10 @@
    "devices": ["RMX2193F4B3DC1A916D712A","RMX21937D00190910028AB8"],
    "expiry": "26-11-2024 12:59 AM"
 },
+"Obetz@GBTrail": {
+   "password": "$2y$12$QsC1rp1lSdBALa4V1HWYyusxTOc9VrvchnzDAuPeyB561XhyE203O",
+   "devices": ["RMX2030E79FD29CDA6E26CA","RMX2030AB849BB43029F94D"],
+   "expiry": "05-11-2024 12:59 AM"
+},
 }
 
