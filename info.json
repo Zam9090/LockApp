@@ -165,13 +165,8 @@
    "expiry": "26-11-2024 12:59 AM"
 },
 "088809318270@GB": {
-   "password": "$2y$12$NcbCvxFsUzW4UEu4onV.PepiaMuN5EbF3JnDibCzP/q69tC4H/XtO",
-   "devices": ["REDMI9D2CAEE93664CF6B1"],
-   "expiry": "27-11-2024 12:59 PM"
-},
-"088809318270@FK": {
-   "password": "$2y$12$Pg.N7CHM4ahP01bIGgBsf.fnUMnn94Q/PKrT.lcDxKDNvB2P/OWoi",
-   "devices": ["REDMI9EAC605E583B4D0DA"],
+   "password": "$2y$12$Yhp8ZOvsp9QtseU.4j.Y0ub84XW/14OHuEOTnKiT0ninhC4NxnNGi",
+   "devices": ["REDMI931985D238C2C71FA","REDMI952EC1456D2B4A87D"],
    "expiry": "27-11-2024 12:59 PM"
 },
 }
