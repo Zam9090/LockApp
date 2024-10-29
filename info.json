@@ -174,5 +174,10 @@
    "devices": ["CPH1909CYJBTCSOCE49GE6S"],
    "expiry": "28-11-2024 12:59 PM"
 },
+"085960631997@GB": {
+   "password": "$2y$12$IuqI.B9gciTU2Cx5UXMbOewacM5hgvn2PnpmoC/wMqSWSmSs3IfnS",
+   "devices": ["CPH2599B2488C8C11EF70D7","CPH2599EBC5E97FC276FB68"],
+   "expiry": "28-11-2024 12:59 PM"
+},
 }
 
