@@ -199,5 +199,10 @@
    "devices": ["SM-A047F85B38C69FC60F1DD"],
    "expiry": "30-11-2024 12:59 PM"
 },
+"0895340955818@GB": {
+   "password": "$2y$12$dOu82evZpI3wOiqDtFrbWucpDESRkBfwCCkMG8C3gp3DpoAQ9/Piu",
+   "devices": ["SH-C0500D5AD2DDC15E7A6","SH-C0583A8DAA47FA7FA5F"],
+   "expiry": "01-12-2024 12:59 PM"
+},
 }
 
