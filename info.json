@@ -194,5 +194,10 @@
    "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
    "expiry": "30-11-2024 12:59 PM"
 },
+"081316832120@FK": {
+   "password": "$2y$12$ZlDRZ8e.jxxdQZvooQA/aesU3a8kCHew9TlK7aX89uiHz9qJ5bLTC",
+   "devices": ["SM-A047F85B38C69FC60F1DD"],
+   "expiry": "30-11-2024 12:59 PM"
+},
 }
 
