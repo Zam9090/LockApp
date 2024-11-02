@@ -129,7 +129,6 @@
    "devices": ["23053RN02A75FC164ACF619D87","23053RN02A25A7EB658D3C348A"],
    "expiry": "02-12-2024 12:01 AM"
 },
-},
 "Dimas@GBTrail": {
    "password": "$2y$12$os7jv3251548BU2qj2AUwetPXs1aYMAZMJnp7pbZFY6TFUNTtemPe",
    "devices": ["SM-A042F5154CCB8983BD871"],
@@ -144,11 +143,6 @@
    "password": "$2y$12$z0Ay52PYLv4ttCCgmaRWAu4rDOSxVOZnU92qx4/J4o9jIPvIU08tO",
    "devices": ["22120RN86G3B6D878BEA9235B9","22120RN86G9A64E55903F13191"],
    "expiry": "26-11-2024 12:59 PM"
-},
-"JLee@GBMY": {
-   "password": "$2y$12$dMs2btIs3WZqgSBuTi22b.MjzGn/e7k7aOlYp8R.1V.3KoDAj.bKi",
-   "devices": ["SM-A065F08C5A4E40AA6618E","SM-A065FE9AC71C70D3921B8"],
-   "expiry": "27-10-2024 12:59 PM"
 },
 "01137444876@GBMYR": {
    "password": "$2y$12$lbjYF2YJV/xhP1YycD.CO.kbvYKlzcvMrVW4.uyVohmdPDTrnXpsS",
