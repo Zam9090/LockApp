@@ -209,5 +209,10 @@
    "devices": ["CPH2185E1EBF571EAD89FC3","CPH21852E974993441FA06D"],
    "expiry": "01-12-2024 12:59 PM"
 },
+"MAGNUM_TEST": {
+   "password": "$2y$12$0Hsmi0BIA8P3OPG0FlzyUOrwlecVE0j3iqmnQYokF2JxMWKMLAFAG",
+   "devices": ["220333QAG2320E5DBB8F5C1FE"],
+   "expiry": "31-12-2024 12:59 PM"
+},
 }
 
