@@ -124,10 +124,11 @@
    "devices": ["REDMINOTE4F755049C03490533"],
    "expiry": "03-11-2024 12:00 PM"
 },
-"Khoirul@GBTrail": {
-   "password": "$2y$12$.oHMar9JowFZD7qn/yZO9e5hz68Rf9./rjayVQ5T.De4bGx3NbQXy",
-   "devices": ["23053RN02A75FC164ACF619D87"],
-   "expiry": "31-10-2024 12:59 PM"
+"0895358650004@GB": {
+   "password": "$2y$12$xjD0dOGmLWkJBT4CTcodg.AUPY8C2hc2L19Np1XHa/E8OVXT3eFdO",
+   "devices": ["23053RN02A75FC164ACF619D87","23053RN02A25A7EB658D3C348A"],
+   "expiry": "02-12-2024 12:01 AM"
+},
 },
 "Dimas@GBTrail": {
    "password": "$2y$12$os7jv3251548BU2qj2AUwetPXs1aYMAZMJnp7pbZFY6TFUNTtemPe",
