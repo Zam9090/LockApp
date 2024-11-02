@@ -209,5 +209,10 @@
    "devices": ["220333QAG2320E5DBB8F5C1FE"],
    "expiry": "31-12-2024 12:59 PM"
 },
+"081282266624@GB": {
+   "password": "$2y$12$7A3HIj0XgOdL8zIa6WvXJ.8w8Zgm9Jh0wPhPRbD.SoMVNAZrFkcYu",
+   "devices": ["REDMI5B8C819A8D707ACF6"],
+   "expiry": "03-12-2024 12:01 AM"
+},
 }
 
