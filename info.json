@@ -239,5 +239,10 @@
    "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
    "expiry": "01-12-2030 12:00 PM"
 },
+"1018410667@zam": {
+   "password": "$2y$12$jDvl1/MQqTw940J.bVmQBOhSEay3EV5MK5cyr4IVubJKjwB.bkM6K",
+   "devices": ["SM-A035FAD272AB7DC2F4B5F"],
+   "expiry": "03-12-2024 12:59 PM"
+},
 }
 
