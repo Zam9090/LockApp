@@ -219,5 +219,10 @@
    "devices": ["REDMINOTE4120E80994742EBEC"],
    "expiry": "03-12-2024 12:01 AM"
 },
+"088220409617@ZFC": {
+   "password": "$2y$12$NDuR5fHr.fNTZlFkUpqyO.owpTBQKOaZDtEiPa2ls0jsGbaT0Etai",
+   "devices": ["M2101K7BNYC6DF76BA6CCD21E6"],
+   "expiry": "03-12-2024 12:01 AM"
+},
 }
 
