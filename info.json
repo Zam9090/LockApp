@@ -224,5 +224,10 @@
    "devices": ["M2101K7BNYC6DF76BA6CCD21E6"," M2101K7BNYC6DF76BA6CCD21E6"],
    "expiry": "03-12-2024 12:01 AM"
 },
+"aan@admin": {
+   "password": "$2y$12$KmB0EJ583XdFpZmuuhU3K.CksTFI3Q14heUfNkSMgm6w.CmtT58oC",
+   "devices": ["SM-J600G947029F20F93EF5B"],
+   "expiry": "31-12-2024 12:59 AM"
+},
 }
 
