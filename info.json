@@ -229,5 +229,10 @@
    "devices": ["SM-J600G947029F20F93EF5B"],
    "expiry": "31-12-2024 12:59 AM"
 },
+"Fajar@Trail": {
+   "password": "$2y$12$sGouc1lpqFi5gK5Fezl9H.EtJcyiV4FFqL8dvpPcCuy0h1dAB0s32",
+   "devices": ["23021RAA2Y1945003EE64C26FA"],
+   "expiry": "31-12-2024 12:59 PM"
+},
 }
 
