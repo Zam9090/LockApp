@@ -249,5 +249,10 @@
    "devices": ["REDMINOTE5A5F93C274"],
    "expiry": "30-11-2024 12:59 PM"
 },
+"081388447985@GP": {
+   "password": "$2y$12$GP4Y8wk.W1AaWSc1DEebZOFjLkYFds.tkYt2mhfnIn/hJwVTbglga",
+   "devices": ["REDMI4AA3543B8B30C71C5A","REDMI4A328628A33DFE911F"],
+   "expiry": "05-12-2024 12:59 AM"
+},
 }
 
