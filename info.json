@@ -244,5 +244,10 @@
    "devices": ["SM-A035FAD272AB7DC2F4B5F"],
    "expiry": "02-12-2024 12:59 PM"
 },
+"085718920310@ID": {
+   "password": "$2y$12$4izv.GcC7ES/sVwgk7KAmOPKLvHz8QPZrHjHkoSwe59SMHcpK2WL.",
+   "devices": ["REDMINOTE5A5F93C274"],
+   "expiry": "30-11-2024 12:59 PM"
+},
 }
 
