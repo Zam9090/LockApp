@@ -254,5 +254,10 @@
    "devices": ["REDMI4AA3543B8B30C71C5A","REDMI4A328628A33DFE911F"],
    "expiry": "05-12-2024 12:59 AM"
 },
+"085715513571@kiky": {
+   "password": "$2y$12$A3g3Y2njdwsxNkte.lD14eXgPx/PWYtzl422hDE5zaO85gboehJ62",
+   "devices": ["RMX32632415A84669C162C5"],
+   "expiry": "05-12-2024 12:59 PM"
+},
 }
 
