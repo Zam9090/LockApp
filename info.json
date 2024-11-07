@@ -259,5 +259,10 @@
    "devices": ["RMX32632415A84669C162C5"],
    "expiry": "05-12-2024 12:59 PM"
 },
+"081338608004@alex": {
+   "password": "$2y$12$1a58ZZIAsCO4qolWZMPjuu.gcxu3cQHY3tSvChiw/4MIa0S9OIdzu",
+   "devices": ["RMX19715EEF6EC17EDB8413"],
+   "expiry": "07-12-2024 12:59 AM"
+},
 }
 
