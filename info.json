@@ -271,7 +271,7 @@
 },
 "081807810563@GB": {
    "password": "$2y$12$Kl4kOQ6utald0vYGH9GAK.b3uvEF6h6Q/v.yB9a7QrFlxWhc0fh7q",
-   "devices": [],
+   "devices": ["REDMINOTE5A498014D7E5407A85"],
    "expiry": "02-12-2024 12:00 PM"
 },
 }
