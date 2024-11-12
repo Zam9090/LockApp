@@ -289,4 +289,9 @@
    "devices": ["2312DRA50GD9BFCAC883F0EFDE","2312DRA50GC5CA0B376DAB2A78"],
    "expiry": "09-12-2024 12:00 PM"
 },
+"08561115986@kyky": {
+   "password": "$2y$12$v3mZHveAoIY.4uzCrxXoFOJ4JjX0vdhUe426cBHafpftM7OatVDm2",
+   "devices": ["220233L2G0B3C459A21A99F0B"],
+   "expiry": "12-12-2024 12:59 PM"
+},
 }
