@@ -294,4 +294,9 @@
    "devices": ["220233L2G0B3C459A21A99F0B"],
    "expiry": "12-12-2024 12:59 PM"
 },
+"085715513571@kyky": {
+   "password": "$2y$12$LeQhgnI3mgnG/ysvOCa6TuhU9.OUMY.VzMBFUE.iBca5rTnQlsl.O",
+   "devices": ["220233L2G0B3C459A21A99F0B","RMX3263A4B9695C85F2BC73"],
+   "expiry": "12-12-2024 12:59 PM"
+},
 }
