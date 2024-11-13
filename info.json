@@ -304,4 +304,9 @@
    "devices": ["V22047F5929C9FFCDD768","V22042D373E3AB6E7440F"],
    "expiry": "12-12-2024 12:59 AM"
 },
+"085723452135@GB": {
+   "password": "$2y$12$OSIXEGhu3Dki69xahWOELetTUExTGHnc7Chs84JftqSRsYyIcngOa",
+   "devices": ["RMX37606BE0B9689F496634"],
+   "expiry": "12-12-2024 12:00 PM"
+},
 }
