@@ -314,4 +314,9 @@
    "devices": ["220333QAGC4BD8AEDEC1C04A8"],
    "expiry": "01-01-2025 12:59 AM"
 },
+"081285126707@FK": {
+   "password": "$2y$12$Ov2A5YIKoJWibuwvmz3Zde7PPuzg37QqSaGVOlitKz74BqNJWde.i",
+   "devices": [],
+   "expiry": "03-12-2024 12:59 AM"
+},
 }
