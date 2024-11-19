@@ -319,4 +319,9 @@
    "devices": [],
    "expiry": "03-12-2024 12:59 AM"
 },
+"INDRI@ZAM": {
+   "password": "$2y$12$IPqr5bkEbKKnHW09LRoVduoPdT0oHyPgkyoa7ZQ3zjEC17tV8qksa",
+   "devices": ["21121119SG4D3762BE5E0CA532"],
+   "expiry": "18-12-2024 12:59 PM"
+},
 }
