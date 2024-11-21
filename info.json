@@ -329,4 +329,9 @@
    "devices": ["21081111RGC67B11B51C2BE2DA"],
    "expiry": "20-12-2024 12:00 PM"
 },
+"089517422387@GBZAM": {
+   "password": "$2y$12$UkrI4DYtuqwe1MhvgDl9MOs1SLS1RgsGcaOdRF.V52P20JtGXJrC6",
+   "devices": ["SM-A145FBDC2F49238E53362","SM-A145F82BA111C93BF0261"],
+   "expiry": "21-12-2024 12:59 PM"
+},
 }
