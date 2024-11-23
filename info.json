@@ -354,4 +354,9 @@
    "devices": ["RMX351194F2CF97EC5A6A22"],
    "expiry": "22-12-2024 12:59 PM"
 },
+"082284909479@alex": {
+   "password": "$2y$12$yEo.yECMGV4fkoGlOx2IduuPR1px.vp7X5tOknaV6v5Da04OpsX7q",
+   "devices": ["CPH2239478E58051CC8A6A3"],
+   "expiry": "22-12-2024 12:59 PM"
+},
 }
