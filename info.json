@@ -304,4 +304,9 @@
    "devices": ["CPH2239478E58051CC8A6A3"],
    "expiry": "22-12-2024 12:59 PM"
 },
+"087863146279@zam": {
+   "password": "$2y$12$nQwwzlzoBLZwILOcTZGLEOQTVOY68ZE1A2.4HgNybdIToKM9qA4j2",
+   "devices": ["SM-A037F4BD5575F57F4E663"],
+   "expiry": "25-12-2024 12:59 PM"
+},
 }
