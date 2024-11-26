@@ -19,11 +19,6 @@
    "devices": ["23028RN4DGACABC2FEF3A14A65"],
    "expiry": "03-12-2024 12:59 PM"
 },
-   "537853135@SF": {
-   "password": "$2y$12$pLn2HQiURt86B6II4AS/TuhfOSFTKuSf7jTFYxWbV6QJTBRC/uTFi",
-   "devices": ["SM-A055F457C9A20663C0D12"],
-   "expiry": "02-11-2024 12:00 PM"
-},
    "08978197667@FKGB": {
    "password": "$2y$12$E9kz77eX2.e39vjghWSOSe3HdrjixZI.NEriFYw0QuC7awkpymYMG",
    "devices": ["REDMINOTE54BEB1D639352221E"],
@@ -38,26 +33,6 @@
    "password": "$2y$12$.8SrfjAenpVF/fKqqQz25.8UU627w7JXvj.LZus56XUixAgpFRIRm",
    "devices": ["SM-N960FD9AC83B64C742DDC"],
    "expiry": "03-12-2024 12:00 PM"
-},
-"081381420513-GP": {
-   "password": "$2y$12$ouFA7LJmzQYIUDYoISGE/ObZxku7iljpMXCZo6J4gQ/xK7yu/NrU2",
-   "devices": ["23053RN02AFF43376D59954CBC"],
-   "expiry": "19-11-2024 12:00 PM"
-},
-"085892970507-GP": {
-   "password": "$2y$12$qzeqdlryme3lh9MnlByd7uzzTg8NK3ourwMVeEUlk1ocENoAOp1Rm",
-   "devices": ["SM-A035F119839D5F95090DE"],
-   "expiry": "02-11-2024 12:00 PM"
-},
-"085718444154@Rendra": {
-   "password": "$2y$12$AHH6xnG30Y.3HHEzFX6BmOuSTqRKcLeplEGyzG6AJ3fRMzbakGbwu",
-   "devices": ["23021RAA2Y7ED45F412AA9DE1D"],
-   "expiry": "12-10-2023 12:00 PM"
-},
-"081222660388@GP": {
-   "password": "$2y$12$vXWt2BMRusV7turkHtj9PuzyjuQHLJHjIcqEkFJxRF6R/iLVE6e/G",
-   "devices": ["M2101K7BNYC6DF76BA6CCD21E6","M2101K7BNY64A8326C2D6263AF"],
-   "expiry": "04-11-2024 12:00 PM"
 },
 "081320001875@FK": {
    "password": "$2y$12$qjoWG0IuPWJ7fr3ncMZhfukIptbhVmneAVg5QIbVs0ZttXGS28DEm",
@@ -79,16 +54,6 @@
    "devices": ["SM-A135F988E1FC45A41C8C0","SM-A135F27B619E42E3F70CE","SM-A135F52DCA340BDEB33DD"],
    "expiry": "30-11-2024 12:59 PM"
 },
-"082261272931@FK": {
-   "password": "$2y$12$spCjz05pz7cjcGpr3KZuX.EBU2m3jp5/t2Y44okTlLlZoE.R16Ifu",
-   "devices": ["21081111RGC5BDB34A08F50885"],
-   "expiry": "17-11-2024 12:00 PM"
-},
-"087816000817@Aan": {
-   "password": "$2y$12$vLuVNpAXVyScpf3u87xIhuARetnILD0tUYlcPj9FKlfNMI1IFpCgK",
-   "devices": ["21121119SG4D3762BE5E0CA532","21121119SGE6157813E369BE0F"],
-   "expiry": "22-11-2024 12:59 PM"
-},
 "Reza123456": {
    "password": "$2y$12$QUoSrNWL4y2DKzp3C7n/Yu./OZVov75bejbp47yHiZjPAcS0/9sFC",
    "devices": ["RMX363024B2067B8E631BA8","RMX3630E0E51927F7B04BD1"],
@@ -109,20 +74,10 @@
    "devices": ["23053RN02A75F21C24FD6B4C86"],
    "expiry": "01-11-2024 12:59 PM"
 },
-"082197757425@GP.R": {
-   "password": "$2y$12$bT17fASu8sS/ilq8kgy3AupCxZW2N.vTk28vGTMbiLtAYc/kEMZbu",
-   "devices": ["SM-A146PFECEE4224E4DB676","SM-A146P283B5EDC1EE9AFA1"],
-   "expiry": "23-11-2024 12:59 PM"
-},
 "0895358650004@GB": {
    "password": "$2y$12$xjD0dOGmLWkJBT4CTcodg.AUPY8C2hc2L19Np1XHa/E8OVXT3eFdO",
    "devices": ["23053RN02A75FC164ACF619D87","23053RN02A25A7EB658D3C348A"],
    "expiry": "02-12-2024 12:01 AM"
-},
-"Dimas@GBTrail": {
-   "password": "$2y$12$os7jv3251548BU2qj2AUwetPXs1aYMAZMJnp7pbZFY6TFUNTtemPe",
-   "devices": ["SM-A042F5154CCB8983BD871"],
-   "expiry": "31-10-2024 12:59 PM"
 },
 "089636294038@GB": {
    "password": "$2y$12$sinwea6CYWl4cLFhw64PseH.6Cted9FxQ0wgl4aIuiD1PhYhHeO/u",
@@ -139,15 +94,10 @@
    "devices": ["RMX399740EEA6CBCA4A2BA4","RMX399776B03C6170665F55"],
    "expiry": "26-11-2024 12:59 AM"
 },
-"Obetz@GBTrail": {
-   "password": "$2y$12$QsC1rp1lSdBALa4V1HWYyusxTOc9VrvchnzDAuPeyB561XhyE203O",
-   "devices": ["RMX2030AB849BB43029F94D","RMX2030E79FD29CDA6E26CA"],
-   "expiry": "05-11-2024 12:59 AM"
-},
 "172525884@GBMYR": {
    "password": "$2y$12$gbb07Vil2HSiUU/QnqyzTOliwY75W56eOHPgRrdBjcWHZJ/NYIuW6",
    "devices": ["I2218C117BBB30F969813","I22183FD99EAFBE13C5AA"],
-   "expiry": "26-11-2024 12:59 AM"
+   "expiry": "26-12-2024 12:59 AM"
 },
 "088809318270@GB": {
    "password": "$2y$12$Yhp8ZOvsp9QtseU.4j.Y0ub84XW/14OHuEOTnKiT0ninhC4NxnNGi",
