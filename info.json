@@ -309,4 +309,9 @@
    "devices": ["SM-A037F4BD5575F57F4E663","SM-A037F21B2064346012FDB"],
    "expiry": "25-12-2024 12:57 PM"
 },
+"089601306022@alex": {
+   "password": "$2y$12$ik6QrNToOSKC7AmS3giaae7x6qLFNv6g.dEPsHB5PKTjClO7RJtoO",
+   "devices": ["22111317PG68ECC37397FB6C6B"],
+   "expiry": "25-12-2024 12:59 PM"
+},
 }
