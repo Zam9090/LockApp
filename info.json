@@ -334,4 +334,9 @@
    "devices": ["V2039E97478D379781DCC","V2039AF5A6A3C33BE6D11"],
    "expiry": "01-12-2024 12:05 AM"
 },
+"085842293238@SF": {
+   "password": "$2y$12$sjS6FMElOVXSLPnTOiHgoegr4bh3X49MqBKref6oRq.I.ne94v06G",
+   "devices": ["M2003J15SC17FA1D979E3C55D2"],
+   "expiry": "07-12-2024 12:59 PM"
+},
 }
