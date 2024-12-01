@@ -332,7 +332,7 @@
 "089621199798@INDRI": {
    "password": "$2y$12$f2WJT7jsMqwM/H3Ogh1NRuvKMkLj6yAKCcxfjE5L0OiLN6WJrHPVS",
    "devices": ["V2039E97478D379781DCC","V2039AF5A6A3C33BE6D11"],
-   "expiry": "01-12-2024 12:05 AM"
+   "expiry": "01-01-2025 12:05 AM"
 },
 "085842293238@SF": {
    "password": "$2y$12$sjS6FMElOVXSLPnTOiHgoegr4bh3X49MqBKref6oRq.I.ne94v06G",
@@ -349,12 +349,7 @@
    "devices": ["M2003J15SCAED0BE8A4869EED0"],
    "expiry": "30-12-2024 12:59 PM"
 },
-"coba1234": {
-   "password": "$2y$12$RerpYFtCeFUDIMVrT2pFt.mK8NqPtkki7jL/qgJemzLCmW96rClv6",
-   "devices": ["CPH19238F4C7707318C9A2E"],
-   "expiry": "04-12-2024 12:00 PM"
-
-},"andrewgrab": {
+   "andrewgrab": {
    "password": "$2y$12$1h881sqovs5x0L1j1A/VNO6v6ndO44mbkAZc7v7BaMyUepE8za1g.",
    "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
    "expiry": "31-12-2024 12:00 PM"
