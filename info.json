@@ -349,4 +349,9 @@
    "devices": ["M2003J15SCAED0BE8A4869EED0"],
    "expiry": "30-12-2024 12:59 PM"
 },
+"coba1234": {
+   "password": "$2y$12$RerpYFtCeFUDIMVrT2pFt.mK8NqPtkki7jL/qgJemzLCmW96rClv6",
+   "devices": ["CPH19238F4C7707318C9A2E"],
+   "expiry": "03-12-2024 12:00 PM"
+},
 }
