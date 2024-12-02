@@ -319,4 +319,9 @@
    "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
    "expiry": "31-12-2024 12:00 PM"
 },
+"081287122273@kyky": {
+   "password": "$2y$12$7cW5.sotldQRrU2nVB0D4u3tKJ35Ymwu5Fy8T1wdVAJ0ukDi78J22",
+   "devices": ["REDMINOTE87333205C23E8B22C"],
+   "expiry": "05-12-2024 12:00 PM"
+},
 }
