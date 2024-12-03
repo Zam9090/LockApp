@@ -324,4 +324,9 @@
    "devices": ["REDMINOTE87333205C23E8B22C"],
    "expiry": "05-12-2024 12:00 PM"
 },
+"089601407301@alex": {
+   "password": "$2y$12$ezcWerSqyjQ/L9ciSg8SZeTOKsSxoJdd5IqmnPJ58Jw9cAP57zyb6",
+   "devices": ["SM-A310F31006DC2AD83B2CF"],
+   "expiry": "02-01-2025 12:00 PM"
+},
 }
