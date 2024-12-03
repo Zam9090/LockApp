@@ -329,4 +329,9 @@
    "devices": ["SM-A310F31006DC2AD83B2CF"],
    "expiry": "02-01-2025 12:00 PM"
 },
+"085210507147@GB": {
+   "password": "$2y$12$tikMefkqzuc6gxFDCs0SGeq02wu0ugSaWh1Tox.2hzh0dEYVDK5XO",
+   "devices": ["23021RAA2YD1B49250958BBC0E"],
+   "expiry": "02-01-2025 12:59 PM"
+},
 }
