@@ -334,4 +334,9 @@
    "devices": ["23021RAA2YD1B49250958BBC0E","23021RAA2Y517B7C727D6AC9E9"],
    "expiry": "02-01-2025 12:59 PM"
 },
+"1326720336@zam": {
+   "password": "$2y$12$iW8lwdEp1dNoC4RA7584BupYvoRszZCbnn1kcC3d7aPsMxMFVoBc6",
+   "devices": ["SM-A055FB4A71B169B9239B9"],
+   "expiry": "03-01-2025 12:59 PM"
+},
 }
