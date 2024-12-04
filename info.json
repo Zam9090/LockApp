@@ -344,4 +344,9 @@
    "devices": ["REDMINOTE8PROA1DE53A12A58DD20"],
    "expiry": "03-01-2025 12:05 AM"
 },
+"085220752766@zam": {
+   "password": "$2y$12$I6BYoBsmVJ45p7O3vUTwZ.Jxt0pvramQrbLxoOgPz4JeKAiEbDF8C",
+   "devices": ["SM-M127F4C37BB05EF278457"],
+   "expiry": "02-01-2025 12:01 AM"
+},
 }
