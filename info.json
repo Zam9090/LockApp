@@ -339,4 +339,9 @@
    "devices": ["SM-A055FB4A71B169B9239B9","SM-A055F888ECDD003F40EF7"],
    "expiry": "03-01-2025 12:59 PM"
 },
+"081291582474@FK": {
+   "password": "$2y$12$B5t.WaD53DKAT4JwEkegX.RupEPdp0tq.cv5.v6lQ1yQ/6aWfQOfO",
+   "devices": ["REDMINOTE8PROA1DE53A12A58DD20"],
+   "expiry": "03-01-2025 12:05 AM"
+},
 }
