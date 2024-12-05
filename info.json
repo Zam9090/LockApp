@@ -339,4 +339,9 @@
    "devices": ["SM-M127F4C37BB05EF278457"],
    "expiry": "02-01-2025 12:01 AM"
 },
+"081381420513@FK": {
+   "password": "$2y$12$Xr3N5uChYAQDm7deskZYGO7cvtXuoCYDzuipWklBtpWqcFWP2hQCm",
+   "devices": ["23053RN02AFF43376D59954CBC"],
+   "expiry": "03-01-2025 12:59 AM"
+},
 }
