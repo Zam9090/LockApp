@@ -359,4 +359,9 @@
    "devices": ["RMX399709D550F6857975EE"],
    "expiry": "07-01-2025 12:59 PM"
 },
+"082118699569@ZAM": {
+   "password": "$2y$12$nyhxPJPkH.CSWDtnamzARuXHF6Pw9WCLcD07zPI06N.pYiJ1LARbq",
+   "devices": ["SM-A057FF6595DC458760F5C"],
+   "expiry": "15-12-2024 12:59 PM"
+},
 }
