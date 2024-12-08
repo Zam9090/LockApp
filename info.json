@@ -354,4 +354,9 @@
    "devices": ["CPH19238F4C7707318C9A2E"],
    "expiry": "10-12-2023 12:00 PM"
 },
+"1406245187@MYR": {
+   "password": "$2y$12$HQE9hfhJVlpv/dkmAvHffOVbkjqzt.dA.lCcU0bxiy3bEhsGLyvjW",
+   "devices": ["RMX399709D550F6857975EE"],
+   "expiry": "07-01-2025 12:59 PM"
+},
 }
