@@ -374,4 +374,9 @@
    "devices": ["INFINIXX6528BBEAF8C75E1EF5B80"],
    "expiry": "08-01-2025 12:59 PM"
 },
+"84989208765@GB.VND": {
+   "password": "$2y$12$eYbfkrabEs6hDEiHUSNsyeJo5LeSpnfEDylMM1.pcdaJp92v9EaMu",
+   "devices": ["SM-S906U1A96FE09997CCAA2F"],
+   "expiry": "15-12-2024 12:59 PM"
+},
 }
