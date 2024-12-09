@@ -369,4 +369,9 @@
    "devices": ["SM-A225F384DAC9067F6213E"],
    "expiry": "08-01-2025 12:59 PM"
 },
+"082113456902@GPFF": {
+   "password": "$2y$12$7Tpk9TZFKSNSlT4xaQ6iVuDQJeRBdT/LAiHmmWZiBMOZz1rLY8xk.",
+   "devices": ["INFINIXX6528BBEAF8C75E1EF5B80"],
+   "expiry": "08-01-2025 12:59 PM"
+},
 }
