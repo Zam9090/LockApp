@@ -364,4 +364,9 @@
    "devices": ["SM-A057FF6595DC458760F5C"],
    "expiry": "15-12-2024 12:59 PM"
 },
+"081398084698@GBFF": {
+   "password": "$2y$12$R0xmphiYC2LPCwZrMXSxT.VO8S4twi8Nw1eXMDy8jK7OxWdKBj9zW",
+   "devices": ["SM-A225F384DAC9067F6213E"],
+   "expiry": "08-01-2025 12:59 PM"
+},
 }
