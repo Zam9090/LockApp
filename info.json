@@ -389,9 +389,9 @@
    "devices": ["INFINIXX6812BAAFCDBE1D37F6EC2"],
    "expiry": "08-01-2025 12:59 PM"
 },
-"081380685512@alex": {
-   "password": "$2y$12$3H3oAPMleVm6ngcilFrxe.csMdnyYiuhv9eaLgfLhL5rLaUhiS0Py",
-   "devices": [],
-   "expiry": "09-01-2025 12:00 PM"
+"089601407301@alex": {
+   "password": "$2y$12$z6cYrQ3Tnxy7FWLn1Dj2HuFdyZZrv7f8/zIzNyFusyjE61Ytr8DO.",
+   "devices": ["REDMI5PLUSDAB29531B86BFE02"],
+   "expiry": "10-01-2025 12:59 PM"
 },
 }
