@@ -399,4 +399,9 @@
    "devices": ["SM-A135F27B619E42E3F70CE"],
    "expiry": "10-01-2025 12:59 PM"
 },
+"0162272269@GBMYR": {
+   "password": "$2y$12$cq6ijgJieZID8B2d3OuQFui0djPdcAF4lsXmb/Ipg/D5g8QbDgPoO",
+   "devices": ["SM-A556EE2AB6BF783FFC0D6"],
+   "expiry": "10-01-2025 12:59 PM"
+},
 }
