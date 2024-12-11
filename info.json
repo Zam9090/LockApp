@@ -394,4 +394,9 @@
    "devices": ["REDMI5PLUSDAB29531B86BFE02"],
    "expiry": "10-01-2025 12:59 PM"
 },
+"082115714767@zam": {
+   "password": "$2y$12$QMmZ3jOejCm3qq8QfKJCguOZ5CCzOhqMI7SDC.yFvVycJMH6zi9H.",
+   "devices": ["SM-A135F988E1FC45A41C8C0"],
+   "expiry": "10-01-2025 12:59 PM"
+},
 }
