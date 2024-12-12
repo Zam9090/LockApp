@@ -409,4 +409,9 @@
    "devices": ["VIVO1918E2D0336123D8D8BC"],
    "expiry": "10-01-2025 12:59 PM"
 },
+"081221652338@zam": {
+   "password": "$2y$12$9OUgZV9EfZn3n.ueiksx/ucSdykajN8WvZjLHduNANlL.mZlC7ZAy",
+   "devices": ["SM-A705FDBBC29091BC914E3"],
+   "expiry": "11-01-2025 12:00 PM"
+},
 }
