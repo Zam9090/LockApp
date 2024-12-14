@@ -429,4 +429,9 @@
    "devices": ["M2007J20CG18E8BF14139FFAEA"],
    "expiry": "16-12-2024 12:00 PM"
 },
+"0895373924171@kyky": {
+   "password": "$2y$12$iF3vgL/YjBysrm8O2yC2uOjYc/NJjQPZ38XwT3WH556X3YwBSHy.K",
+   "devices": ["V203070AB2728C152F2D4"],
+   "expiry": "13-01-2025 12:00 PM"
+},
 }
