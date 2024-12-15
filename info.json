@@ -444,4 +444,9 @@
    "devices": ["M2003J15SC2E61DBE7CB4B7511"],
    "expiry": "09-01-2025 12:00 PM"
 },
+"082392714303@alex": {
+   "password": "$2y$12$lxjxjHkouh5c1jx/GNaBWeHVTq1bJkt/JzOCUJX7AlzXTP8Pbz1HW",
+   "devices": ["23021RAA2YF4CC4EC886EBDD5A"],
+   "expiry": "14-01-2025 12:00 PM"
+},
 }
