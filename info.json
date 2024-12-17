@@ -474,4 +474,9 @@
    "devices": ["CPH26038F0421E5263A77F7"],
    "expiry": "17-01-2025 12:59 PM"
 },
+"085888624805@kyky": {
+   "password": "$2y$12$lKGuD/xTAkftm4xTNUOmB.wGap6xLqU8CRIZjkVr7z4Ai8ZG0WkDi",
+   "devices": ["INFINIXX689BB2B1D43429CD861"],
+   "expiry": "17-01-2025 12:00 PM"
+},
 }
