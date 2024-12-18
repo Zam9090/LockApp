@@ -494,4 +494,9 @@
    "devices": ["SM-A135F9ED111A9E9840F4A"],
    "expiry": "17-01-2025 12:00 PM"
 },
+"081316711319@alex": {
+   "password": "$2y$12$onbFRk0aATVDmNkqbBoUrOM.0YkBv9rE40om50DtqTFSyYH0jqItO",
+   "devices": ["SM-A217F2FB6B438E749B928"],
+   "expiry": "17-01-2025 12:00 PM"
+},
 }
