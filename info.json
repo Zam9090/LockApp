@@ -514,4 +514,9 @@
    "devices": ["V233321679F9C9382581B"],
    "expiry": "20-01-2025 12:00 PM"
 },
+"0882001348574@alex": {
+   "password": "$2y$12$aVE5ygu85bu8lildsO6iVeirfxYLGAitB.ZQeTM.ydjlkTElxw2Ei",
+   "devices": ["SM-A055FCAB2AF6865BB9698"],
+   "expiry": "23-01-2025 12:00 PM"
+},
 }
