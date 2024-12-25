@@ -519,4 +519,9 @@
    "devices": ["SM-A055FCAB2AF6865BB9698"],
    "expiry": "23-01-2025 12:00 PM"
 },
+"081297295327@zam": {
+   "password": "$2y$12$FyIAoU5JvI6TLQBOEVPWOOSK1vXF8NRUKIg2gKPFU7RQnol2O/gHO",
+   "devices": ["REDMIS2E6EBB0D7967786B1"],
+   "expiry": "24-01-2025 12:00 PM"
+},
 }
