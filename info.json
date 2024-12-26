@@ -529,4 +529,9 @@
    "devices": ["E6653BH9030B34U"],
    "expiry": "31-01-2025 12:59 PM"
 },
+"0349646488@VND": {
+   "password": "$2y$12$TaN9meBC0KP1UH90zNahdu8phvaIn29GYsA87DLKhRKFeSdmeW.T.",
+   "devices": ["21081111RGCE762F7215863EB1"],
+   "expiry": "25-01-2025 12:59 PM"
+},
 }
