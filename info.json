@@ -539,4 +539,9 @@
    "devices": ["TECNOLI791201BBB949574A4"],
    "expiry": "02-02-2025 12:59 PM"
 },
+"0895602495042@kyky": {
+   "password": "$2y$12$xBLQs.x1At5OaTE2Yc66LO/C63fKuBiSGBv/w3R6h/7P/rWO5u68O",
+   "devices": ["SM-A042FF7C7EAC06FDD1993"],
+   "expiry": "26-01-2025 12:00 PM"
+},
 }
