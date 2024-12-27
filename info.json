@@ -534,4 +534,9 @@
    "devices": ["21081111RGCE762F7215863EB1"],
    "expiry": "25-01-2025 12:59 PM"
 },
+"081295005487@zfc": {
+   "password": "$2y$12$BVcL8hEdQGoRVoaDvBKTXOd49y9JVG5PWav2CNEecbCE2.z0iQYLm",
+   "devices": ["TECNOLI791201BBB949574A4"],
+   "expiry": "02-02-2025 12:59 PM"
+},
 }
