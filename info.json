@@ -379,4 +379,9 @@
    "devices": ["MIA2AE813193A71827D1"],
    "expiry": "02-02-2025 12:00 PM"
 },
+"082236434150@alex": {
+   "password": "$2y$12$j9hWw4hd0FDWSh7E68LeLeQVYhiM7X0X4BLgYS6um5tNzy7.HayzS",
+   "devices": ["V20587366F5611B884BF2"],
+   "expiry": "02-02-2025 12:00 PM"
+},
 }
