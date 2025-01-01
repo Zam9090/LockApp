@@ -414,4 +414,9 @@
    "devices": ["INFINIXX670DB9FBB1378F076B3"],
    "expiry": "02-02-2025 12:59 PM"
 },
+"1166637487@ZAM": {
+   "password": "$2y$12$x1JLFWVwazkKN9QQK3otgOdyZiJj4/JEFjXLgzQBWGM9IX8dhBP.W",
+   "devices": ["VIVO190484514CDA69E991F2"],
+   "expiry": "03-02-2025 12:59 PM"
+},
 }
