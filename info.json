@@ -404,4 +404,9 @@
    "devices": ["CPH19374F6C7A36A1C802D8"],
    "expiry": "02-02-2025 12:59 PM"
 },
+"085888068634@ID": {
+   "password": "$2y$12$19Iiqegx5OEGh.0Z4rNyoOdkOpYdF2sEYuJC31AE4H5oll28hg67G",
+   "devices": ["ITELA667LP7766CB27318A17F2"],
+   "expiry": "03-01-2025 12:59 PM"
+},
 }
