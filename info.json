@@ -409,4 +409,9 @@
    "devices": ["ITELA667LP7766CB27318A17F2"],
    "expiry": "03-01-2025 12:59 PM"
 },
+"087878031439@GB": {
+   "password": "$2y$12$lfVuwuOJQ6whnOlvh4tUNeI8IlFtO5NWcmhfj.RTl7wri61azsS8S",
+   "devices": ["INFINIXX670DB9FBB1378F076B3"],
+   "expiry": "02-02-2025 12:59 PM"
+},
 }
