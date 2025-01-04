@@ -454,4 +454,9 @@
    "devices": ["V220739195580A4C1B3CB"],
    "expiry": "03-02-2025 12:00 PM"
 },
+"081368726303@GPZFC": {
+   "password": "$2y$12$2ZIVbNbx76WYbI0RvylwGOrQ1ly24dtklcOm8P0jCwtGdHtdS0YH2",
+   "devices": ["TECNOLH6ND3402858371FF6CD"],
+   "expiry": "03-02-2025 12:59 PM"
+},
 }
