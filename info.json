@@ -449,4 +449,9 @@
    "devices": ["SM-A507FNAECA83BD0C9CDAE3"],
    "expiry": "03-02-2025 12:00 PM"
 },
+"089677727930@alex": {
+   "password": "$2y$12$bjqpI86RVzxVRAfvDmLC6eWFnIyeN7Lp9PyhMbQ5xAbzsNBPIWlju",
+   "devices": ["V220739195580A4C1B3CB"],
+   "expiry": "03-02-2025 12:00 PM"
+},
 }
