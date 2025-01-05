@@ -464,4 +464,9 @@
    "devices": ["SM-S908E36868219CBD394F3"],
    "expiry": "04-02-2025 12:59 PM"
 },
+"0175457271@SFMYR": {
+   "password": "$2y$12$EXknNF4FE0UqSwN0lJjQg.VbHkuH8sO9QeMKHZWD3d5i1DWYb10LK",
+   "devices": ["VIVO1906EA9190CB7D787A81"],
+   "expiry": "04-02-2025 12:59 PM"
+},
 }
