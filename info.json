@@ -459,4 +459,9 @@
    "devices": ["TECNOLH6ND3402858371FF6CD"],
    "expiry": "03-02-2025 12:59 PM"
 },
+"0183759723@GBMYR": {
+   "password": "$2y$12$XuOfHWC.uoBcYuJclZrLBuea1NaTvR7OGI7Wl0eIE1bIqEIKAxG7e",
+   "devices": ["SM-S908E36868219CBD394F3"],
+   "expiry": "04-02-2025 12:59 PM"
+},
 }
