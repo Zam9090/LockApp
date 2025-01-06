@@ -484,4 +484,9 @@
    "devices": ["23108RN04Y01E436566618BD3E"],
    "expiry": "05-02-2025 12:59 PM"
 },
+"082390730907@alex": {
+   "password": "$2y$12$.GpSxIaWEA7oc9Y5kEKfAOblaErWz5OH72pppyC28PTgOlzB0QTny",
+   "devices": ["RMX317101888BF0ACC928DB"],
+   "expiry": "05-02-2025 12:00 PM"
+},
 }
