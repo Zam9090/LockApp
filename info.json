@@ -439,10 +439,10 @@
    "devices": ["220333QPGC13C2B9E0A1ED781"],
    "expiry": "03-02-2025 12:00 PM"
 },
-"081321731376@trial": {
-   "password": "$2y$12$H5.K61bMFl/6dT1huWtpO.NyRTLuJUONrKT0o/czSQyE81qMRq2AS",
-   "devices": ["22101316G42046DC71A9D4682"],
-   "expiry": "06-01-2025 12:00 PM"
+"081321731376@alex": {
+   "password": "$2y$12$PIFOn3WEbS/m2LaXo8mcG.f5pp.sf6S5Fa6ZY.Zmm1cLYVStKDhle",
+   "devices": ["22101316G42046DC71A9D4682","081321731376@trial"],
+   "expiry": "06-02-2025 12:00 PM"
 },
 "081292909399@zfc": {
    "password": "$2y$12$NYR/56p.Cnev.C2K6bMIDef6K67ji3h1xHOlJHhZKX6fwG7VfU9TO",
