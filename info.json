@@ -499,4 +499,9 @@
    "devices": ["CPH22197713B7A869271DA9"],
    "expiry": "06-02-2025 12:00 PM"
 },
+"085157829880@trial": {
+   "password": "$2y$12$HdMKeVNWr0hVQcJgDbypuOSWMUQOAP//xNfQ7Tdq/HPwrrEcuE2fS",
+   "devices": ["SM-A205F18241878ED1105D3"],
+   "expiry": "03-01-2025 12:00 PM"
+},
 }
