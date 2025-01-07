@@ -494,4 +494,9 @@
    "devices": ["ASUSI005DA227D47C193A4B705"],
    "expiry": "06-02-2025 12:59 PM"
 },
+"082149055614@alex": {
+   "password": "$2y$12$S3ozRUIWK2Pf3POm4td2yuO4ANt4.L/e1qtMattmGV1weq4MFU3Ci",
+   "devices": ["CPH22197713B7A869271DA9"],
+   "expiry": "06-02-2025 12:00 PM"
+},
 }
