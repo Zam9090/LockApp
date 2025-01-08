@@ -514,4 +514,9 @@
    "devices": ["SM-A546E18D0317A7DDF7D26"],
    "expiry": "08-02-2025 12:59 PM"
 },
+"0102363677@SFMYR": {
+   "password": "$2y$12$bI15ssOAlGSNXZS9MFQHvudIOug3dadm4riTc5YyIF4eXCWuFpPEi",
+   "devices": ["RMX3997307EA3B1F8DF1246"],
+   "expiry": "07-02-2025 12:59 PM"
+},
 }
