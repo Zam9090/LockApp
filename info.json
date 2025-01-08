@@ -524,4 +524,9 @@
    "devices": ["RMX3760684B0FBC1D90F47C"],
    "expiry": "07-02-2025 12:59 PM"
 },
+"Fajar@GPBSK": {
+   "password": "$2y$12$A3N8QIoPbh8k/1chucE38uTTFNzbqodYVvXLPeFoVzC3APhv0nJcq",
+   "devices": ["23021RAA2Y5673D98F1F89B576"],
+   "expiry": "07-02-2025 12:59 PM"
+},
 }
