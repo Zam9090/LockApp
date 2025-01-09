@@ -529,4 +529,9 @@
    "devices": ["23021RAA2Y5673D98F1F89B576"],
    "expiry": "07-02-2025 12:59 PM"
 },
+"085718920310@alex": {
+   "password": "$2y$12$V2ZzrUasSRkhYEH7Gdhmxem6kM55iPjJQTrjtStWvaoOeU/Y5pNc6",
+   "devices": ["REDMINOTE5A5F93C274"],
+   "expiry": "08-02-2025 12:59 PM"
+},
 }
