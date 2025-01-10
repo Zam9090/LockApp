@@ -534,4 +534,9 @@
    "devices": ["REDMINOTE5A5F93C274"],
    "expiry": "08-02-2025 12:59 PM"
 },
+"082125403253@FKZFC": {
+   "password": "$2y$12$CKEFXHdI0DmREkfiYlVtbuaBcvTn9bKMVWJybex73mV7tFbPftOnu",
+   "devices": ["SM-A135F4EAFFE0441A9A0D8"],
+   "expiry": "17-01-2025 12:59 PM"
+},
 }
