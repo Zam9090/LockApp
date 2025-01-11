@@ -549,4 +549,9 @@
    "devices": ["SM-A022F2FEF720EFC338EBC"],
    "expiry": "09-02-2025 12:00 PM"
 },
+"085157829880@kyky": {
+   "password": "$2y$12$Nrxv1vHwkJbdAYySSKUiQeGx9yI6jDY7CRYIoTIhFh2jxDI1uBmle",
+   "devices": ["SM-A205F18241878ED1105D3"],
+   "expiry": "11-02-2025 12:00 PM"
+},
 }
