@@ -554,4 +554,9 @@
    "devices": ["SM-A205F18241878ED1105D3"],
    "expiry": "11-02-2025 12:00 PM"
 },
+"089523721571@FK": {
+   "password": "$2y$12$woC39VUV2QyeMUns3Y7xxuY1jj14FDjvesNGbalOwO.6o.XPK.fqO",
+   "devices": ["RMX1911B29D98DA89F46CBE"],
+   "expiry": "31-01-2025 12:59 PM"
+},
 }
