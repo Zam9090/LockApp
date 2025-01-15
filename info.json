@@ -569,4 +569,9 @@
    "devices": ["M2006C3MG7667969F6AF21B8F"],
    "expiry": "14-02-2025 12:59 PM"
 },
+"089520009763@alex": {
+   "password": "$2y$12$9EXo5vkE8DN0VBQKN5C2S.cCw.qvY8FK0xs0Dp4c2KoUTY58Jx8Mu",
+   "devices": ["21061119AG148F12077DB134DF"],
+   "expiry": "14-02-2025 12:59 PM"
+},
 }
