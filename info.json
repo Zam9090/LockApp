@@ -564,4 +564,9 @@
    "devices": ["INFINIXX6694DD8CFF11EA703F4"],
    "expiry": "14-02-2025 12:59 PM"
 },
+"082124592541@FKZFC": {
+   "password": "$2y$12$I3TZCE9yHWEu8C809bUl/uXVzOlf5FiIefPG.L37DQPwS9wKdno/a",
+   "devices": ["M2006C3MG7667969F6AF21B8F"],
+   "expiry": "14-02-2025 12:59 PM"
+},
 }
