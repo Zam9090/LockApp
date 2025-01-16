@@ -599,4 +599,9 @@
    "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
    "expiry": "01-01-2029 12:00 PM"
 },
+"0197849252@MAX.MYR": {
+   "password": "$2y$12$lwBJVhAd/NLZtHwY.9OX5OeT7KzEAbxWW7QyFNUO5gG5IPHUWhFka",
+   "devices": ["TECNOLH7NAC94C8C1D91CD48C"],
+   "expiry": "19-01-2025 12:00 PM"
+},
 }
