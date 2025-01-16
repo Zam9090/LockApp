@@ -579,4 +579,9 @@
    "devices": ["TECNOKE5KC0458AB9011E6E14"],
    "expiry": "15-02-2025 12:00 PM"
 },
+"082210686814@ZAM": {
+   "password": "$2y$12$v1iKtwf9RqyM6SkfBABaSe7i62IwYgY86caHSqfnoUXqiLIyfhzZy",
+   "devices": ["SM-A045F1E1ADAC52F2FB504"],
+   "expiry": "15-02-2025 12:59 PM"
+},
 }
