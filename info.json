@@ -594,4 +594,9 @@
    "devices": ["INFINIXX6528BBAD10BEC57393704","INFINIXX6528B75590F83A884BF79"],
    "expiry": "15-02-2025 12:00 PM"
 },
+"andrewgrab": {
+   "password": "$2y$12$Zw7QgAmLqRMB4Psxdb6UOe9nL8iVH3h54cI0PLFshnU6fNc960crK",
+   "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
+   "expiry": "01-01-2029 12:00 PM"
+},
 }
