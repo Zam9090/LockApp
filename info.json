@@ -604,4 +604,9 @@
    "devices": ["TECNOLH7NAC94C8C1D91CD48C"],
    "expiry": "19-01-2025 12:00 PM"
 },
+"081282266624@zam": {
+   "password": "$2y$12$rf3mm9tXvN3t3Zw0aBd8CuxoItpAGU82Nbwso3BqZlpOzl7nNT1ga",
+   "devices": ["REDMI5B8C819A8D707ACF6"],
+   "expiry": "16-02-2025 12:00 PM"
+},
 }
