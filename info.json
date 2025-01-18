@@ -609,4 +609,9 @@
    "devices": ["REDMI5B8C819A8D707ACF6"],
    "expiry": "16-02-2025 12:00 PM"
 },
+"085320965648@kyky": {
+   "password": "$2y$12$JzgHKrnoghWgFr4svky6d.WDarlt5nrl0N0CFnoOt4M1xWU5mlc82",
+   "devices": ["SM-A346EC07FACB102A22933"],
+   "expiry": "17-02-2025 12:00 PM"
+},
 }
