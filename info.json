@@ -614,4 +614,9 @@
    "devices": ["SM-A346EC07FACB102A22933"],
    "expiry": "17-02-2025 12:00 PM"
 },
+"1160179970@ZFC.SF": {
+   "password": "$2y$12$oRDPWY4DJJsXlVKCe/Lspeo1c/Fb5hn8uz9OCu/sDSbpRYWVhsxnq",
+   "devices": ["REDMINOTE9PRO4C7291AB585A4580"],
+   "expiry": "17-02-2025 12:59 PM"
+},
 }
