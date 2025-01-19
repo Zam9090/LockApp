@@ -619,4 +619,9 @@
    "devices": ["REDMINOTE9PRO4C7291AB585A4580"],
    "expiry": "17-02-2025 12:59 PM"
 },
+"089615000508@trial": {
+   "password": "$2y$12$BJx4t0J9TVAFrc7bjuOCc.IDMjKrSZjUo6CqeBBUmsvX5FGvSZONi",
+   "devices": ["REDMI7E29A73B84C963570"],
+   "expiry": "21-01-2025 12:00 PM"
+},
 }
