@@ -624,9 +624,4 @@
    "devices": ["SM-A505F27062BF02A27027D","SM-A505F9EE74A4348845CA2"],
    "expiry": "19-02-2025 12:00 PM"
 },
-"instal": {
-   "password": "$2y$12$TvMke3VwdUCjxQZboIjMF.rPTx85oT2kR.o/wQ/4yJHAhrYB4RZtC",
-   "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
-   "expiry": "01-01-2029 12:00 PM"
-},
 }
