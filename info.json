@@ -624,4 +624,9 @@
    "devices": ["SM-A505F27062BF02A27027D","SM-A505F9EE74A4348845CA2"],
    "expiry": "19-02-2025 12:00 PM"
 },
+"083852980045GPALEX": {
+   "password": "$2y$12$gEAK4fn2iVI5jSjh.Z2MnuwvbnySghgv64TVHbFbGuhu47kz5cCXe",
+   "devices": ["CPH2269F7DA271177757360"],
+   "expiry": "20-02-2025 12:59 PM"
+},
 }
