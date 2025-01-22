@@ -639,4 +639,9 @@
    "devices": ["SM-A042F5154CCB8983BD871","SM-A042FBE99C68D3F9741A5"],
    "expiry": "21-02-2025 12:59 PM"
 },
+"08568715269@FKZFC": {
+   "password": "$2y$12$HKAbg3JSTLM0y31mf3EZh.hW/Y/5C10rafv6cWcnnjT6F88zV3dXW",
+   "devices": ["M2010J19SGF49EF2328FDC3B0D"],
+   "expiry": "22-02-2025 12:59 PM"
+},
 }
