@@ -634,4 +634,9 @@
    "devices": ["M2006C3LG12953B05A9A597E8","M2006C3LG73EEFF16A5C243C1"],
    "expiry": "21-02-2025 12:00 PM"
 },
+"082112476976@ZFCGB": {
+   "password": "$2y$12$39HSXmKzT26Ij5hVBRD.ae/GkKs6i7.YFQnaVR9bbSpDzPgS6/bkK",
+   "devices": ["SM-A042F5154CCB8983BD871"],
+   "expiry": "21-02-2025 12:59 PM"
+},
 }
