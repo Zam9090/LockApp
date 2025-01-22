@@ -629,4 +629,9 @@
    "devices": ["CPH2269F7DA271177757360","CPH22694BE0601D0EFCEBD7"],
    "expiry": "20-02-2025 12:59 PM"
 },
+"089674074746@kyky": {
+   "password": "$2y$12$2wB3ZljhxdxVa5JUMq/emuAhVYLtWtojKYLtpxcKKsiG8Kbh126aG",
+   "devices": ["M2006C3LG12953B05A9A597E8"],
+   "expiry": "21-02-2025 12:00 PM"
+},
 }
