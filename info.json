@@ -644,4 +644,9 @@
    "devices": ["M2010J19SGF49EF2328FDC3B0D"],
    "expiry": "22-02-2025 12:59 PM"
 },
+"516303641@SFMYR": {
+   "password": "$2y$12$Jv27Hq45JYlCMK98C/TAYekJfkYFLHh1UBrULNG0Q5TsLdcnOI2G6",
+   "devices": ["CPH2387AEFA0D63F64A00A2"],
+   "expiry": "25-02-2025 12:00 PM"
+},
 }
