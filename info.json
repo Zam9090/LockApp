@@ -654,4 +654,9 @@
    "devices": ["INFINIXX6812BFEF68CC8E698AAD0"],
    "expiry": "27-02-2025 12:59 PM"
 },
+"085712435956@aan": {
+   "password": "$2y$12$gxthBQJ5x3A.MRtMsrj/N.gi7Ll.ckliViaX7m8aBrcBDkkEp9vka",
+   "devices": ["INFINIXX6525BE84DF0137FB8BE66"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
