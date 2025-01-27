@@ -659,4 +659,9 @@
    "devices": ["INFINIXX6525BE84DF0137FB8BE66"],
    "expiry": "28-02-2025 12:00 PM"
 },
+"081318922939@FK": {
+   "password": "$2y$12$.OeTOse5XVh7v0CvEpmJvuMhDy6i5c2fEc0HkV9/3vhVOETo1LTKS",
+   "devices": ["M2101K7BNY1BAFEC3F31A92036"],
+   "expiry": "27-02-2025 12:00 PM"
+},
 }
