@@ -674,4 +674,9 @@
    "devices": ["M2006C3LGD32FC50D686481A8"],
    "expiry": "03-03-2025 12:00 PM"
 },
+"085885931851@kyky": {
+   "password": "$2y$12$ezAzzFxMaA.pSb6univ8Ce9bp2oxNf0WllwHZu/KSf0SRdw.e790i",
+   "devices": [],
+   "expiry": "03-03-2025 12:00 PM"
+},
 }
