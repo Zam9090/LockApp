@@ -689,4 +689,9 @@
    "devices": ["CPH2631FA290F593430B413"],
    "expiry": "03-03-2025 12:00 PM"
 },
+"1399970805@alex": {
+   "password": "$2y$12$QfUNvsKHbhEmXXt11pvHoOZ.ZMQvF456dqO/n/N0f0KjPFQDmbs3K",
+   "devices": ["22101316G2F29BD4F2F47D3AE"],
+   "expiry": "03-03-2025 12:59 PM"
+},
 }
