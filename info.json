@@ -729,4 +729,9 @@
    "devices": ["2201117TYEEF61461E0E3F5A8"],
    "expiry": "06-03-2025 12:00 PM"
 },
+"085772970375@alex": {
+   "password": "$2y$12$gv.Ld0N09MCvGoUwYjgdneJrR0iIGvWWU6mWCHerqdddxRJIBm9WS",
+   "devices": ["CPH212719F9CF4DE0506964"],
+   "expiry": "06-03-2025 12:59 PM"
+},
 }
