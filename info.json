@@ -736,7 +736,7 @@
 },
 "081389141003@kyky": {
    "password": "$2y$12$giv4Mj8qRXL2Kt56wU/uDe7ZU9kyNSCxl4vn5yaTify0XjycIafu.",
-   "devices": [],
+   "devices": ["MI8PRO4790DCB6B3030674"],
    "expiry": "07-03-2025 12:00 PM"
 },
 }
