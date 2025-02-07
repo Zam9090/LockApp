@@ -739,4 +739,9 @@
    "devices": ["MI8PRO4790DCB6B3030674"],
    "expiry": "07-03-2025 12:00 PM"
 },
+"085716693069@alex": {
+   "password": "$2y$12$BuRuin96r1QcRY5bXHRa4O83eEKfvUyx..N37WGW0w8pQRyDN4iT2",
+   "devices": ["RMX3939580A3B218E2AEC5D"],
+   "expiry": "07-03-2025 12:59 PM"
+},
 }
