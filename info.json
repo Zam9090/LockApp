@@ -779,4 +779,9 @@
    "devices": ["INFINIXX680B4B57589780DB8956"],
    "expiry": "18-03-2025 12:00 PM"
 },
+"082210742772@alex": {
+   "password": "$2y$12$dP99V5BB3qGWcpkmll/51ehSQDvrRBIgF6bv3zli0OPlzjCoI/rsy",
+   "devices": ["SM-A055F3E2E97AF8A8B02CE"],
+   "expiry": "17-03-2025 12:00 PM"
+},
 }
