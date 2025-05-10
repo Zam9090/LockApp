@@ -809,4 +809,9 @@
    "devices": ["24069PC21G51999870BBA5FEDF"],
    "expiry": "26-05-2025 12:00 PM"
 },
+"GPFK4117@alex": {
+   "password": "$2y$12$BfjSKsrVYbxtYLOPFjf/aeG1dHw4CIacc4abW/3cujFx3mubW9jnG",
+   "devices": ["CPH2457D835C0A709738F52"],
+   "expiry": "09-06-2025 12:59 PM"
+},
 }
