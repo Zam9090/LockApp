@@ -814,4 +814,9 @@
    "devices": ["CPH2457D835C0A709738F52"],
    "expiry": "09-06-2025 12:59 PM"
 },
+"GOJEK@8225": {
+   "password": "$2y$12$KUh8YKd35n4JQJmlaq.LfOpKrowq3FHvqzC70ih8H.cYmKpC.6caS",
+   "devices": ["2410FPCC5G7EBB4CDF965B13D9"],
+   "expiry": "12-06-2025 12:59 PM"
+},
 }
