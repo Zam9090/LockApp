@@ -819,4 +819,9 @@
    "devices": ["2410FPCC5G7EBB4CDF965B13D9"],
    "expiry": "12-06-2025 12:59 PM"
 },
+"FK6239@san": {
+   "password": "$2y$12$1l5XxZpnglof9ZLAj/52wuBkIa/h7inYuD62GPV6jd1CVgmYHHJJW",
+   "devices": ["INFINIXX68825A49C365A9D5A0B7"],
+   "expiry": "15-06-2025 12:00 PM"
+},
 }
