@@ -839,4 +839,9 @@
    "devices": ["INFINIXX685788F8580AEBC0DB3F"],
    "expiry": "03-08-2025 12:00 PM"
 },
+"FK5593@alex": {
+   "password": "$2y$12$EluIw.yBqRON9.28OxrveOZXywdfhgPNATczy0VpWImRkTWxZX0Ui",
+   "devices": ["25053PC47GDD4008EA9EE44148"],
+   "expiry": "03-08-2025 12:00 PM"
+},
 }
