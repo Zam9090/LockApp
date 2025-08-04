@@ -849,4 +849,9 @@
    "devices": ["REDMINOTE8PROE53DFC4B45C417A2"],
    "expiry": "01-08-2026 12:00 PM"
 },
+"GP6749@SAN": {
+   "password": "$2y$12$xli6jYLIAsa4K7BPvguBJe.k9G4AFZmiTyFtULWN3z60.rq1Nuty6",
+   "devices": ["VIVO1918488BDDAD5336B4F8"],
+   "expiry": "04-09-2025 12:59 PM"
+},
 }
