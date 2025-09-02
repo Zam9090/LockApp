@@ -859,4 +859,9 @@
    "devices": [],
    "expiry": "05-09-2025 12:00 PM"
 },
+"GP7177@ALEX": {
+   "password": "$2y$12$JFbgAsd7D9LGX8ccMLsH3OqyWLfRbk7DUOplrVlao/w4WdEwoaG3G",
+   "devices": ["INFINIXX68318F1D0FA1AE7F07FA"],
+   "expiry": "02-10-2025 12:00 PM"
+},
 }
