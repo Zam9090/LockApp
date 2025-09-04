@@ -864,4 +864,9 @@
    "devices": ["INFINIXX68318F1D0FA1AE7F07FA"],
    "expiry": "02-10-2025 12:00 PM"
 },
+"GP2069@SAN": {
+   "password": "$2y$12$S3L/PFy464NwvYAtvCfXmeGK8NYIawns/9RxK8OntQA/HcyT/aE32",
+   "devices": ["2410FPCC5G6453C0E17B008F09"],
+   "expiry": "04-10-2025 12:00 PM"
+},
 }
