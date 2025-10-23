@@ -869,9 +869,4 @@
    "devices": ["2410FPCC5G6453C0E17B008F09"],
    "expiry": "04-10-2025 12:00 PM"
 },
-"andrewtea": {
-   "password": "$2y$12$XHIzLVQI//UOxAhw2kFYvODHlMa62wNHxihfKPZQEn5wW0WSnpVTy",
-   "devices": ["23021RAA2Y021F50177BF2DB4B"],
-   "expiry": "31-12-2025 12:00 PM"
-},
 }
