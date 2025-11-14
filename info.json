@@ -874,4 +874,9 @@
    "devices": ["SM-A057F7F9A90AA9AC00108"],
    "expiry": "27-11-2025 12:00 PM"
 },
+"GP1866@alex": {
+   "password": "$2y$12$PXWe17nAXxzZwWG93AMBZetj8XA.lKdArH7e1.VsGrdEXgawDdtuO",
+   "devices": ["ITELP671LB3AD348200EF5B20"],
+   "expiry": "14-12-2025 12:00 PM"
+},
 }
