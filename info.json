@@ -879,4 +879,9 @@
    "devices": ["ITELP671LB3AD348200EF5B20"],
    "expiry": "14-12-2025 12:00 PM"
 },
+"FK1554@SAN": {
+   "password": "$2y$12$8F/CNfYMvBdgNnXIfrgQo.OxbxIva4ymKSfMUjkXH5Xgwk.P.leI6",
+   "devices": ["M2006C3MG73A49D82AF5EFFEA"],
+   "expiry": "15-12-2025 12:00 PM"
+},
 }
