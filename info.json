@@ -884,4 +884,9 @@
    "devices": ["M2006C3MG73A49D82AF5EFFEA"],
    "expiry": "15-12-2025 12:00 PM"
 },
+"FKGP1505": {
+   "password": "$2y$12$oXKeOu7wEB21enGUKSGkPeNdB6RdwUGLCcRR7tOOwTBi91DjeHENO",
+   "devices": ["MIA2LITE921E97F5E2F1FBEE"],
+   "expiry": "21-12-2025 12:00 PM"
+},
 }
